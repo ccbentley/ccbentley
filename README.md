@@ -11,10 +11,10 @@
 
 <div align="left">
   <a href="https://ccbentley.me/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3037/3037366.png" height="35" alt="website logo"  />
+    <img src="https://img.shields.io/badge/Website-Website?style=for-the-badge&logo=codesandbox&logoColor=white&color=20283e" height="35" alt="website logo"  />
   </a>
   <a href="https://ccbentley.itch.io/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=zfuVDK4SdKFq&format=png" height="35" alt="itch logo"  />
+    <img src="https://img.shields.io/badge/Itch.io-Itch?style=for-the-badge&logo=itchdotio&logoColor=white&color=fa5c5c" height="35" alt="itch logo"  />
   </a>
   <a href="https://www.youtube.com/@ccbentleyDev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
