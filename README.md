@@ -4,29 +4,31 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/carterwells.dev-%2358A6FF?style=flat-square&logo=About.me&logoColor=white)](https://carterwells.dev)&nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/ccbentley?style=flat-square&color=30363d&labelColor=161b22&logo=github&logoColor=58A6FF&label=Follow)](https://github.com/ccbentley)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=ccbentley&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/ccbentley)
+<a href="https://carterwells.dev"><img src="https://img.shields.io/badge/carterwells.dev-161b22?style=for-the-badge&logoColor=58A6FF" alt="Website" /></a>
+<a href="https://github.com/ccbentley"><img src="https://img.shields.io/github/followers/ccbentley?style=for-the-badge&logo=github&logoColor=58A6FF&label=Follow&color=161b22&labelColor=21262d" alt="Followers" /></a>
+<a href="https://github.com/ccbentley"><img src="https://komarev.com/ghpvc/?username=ccbentley&style=for-the-badge&color=161b22&labelColor=21262d&label=Views" alt="Views" /></a>
 
-</div>
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ccbentley">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ccbentley&show_icons=true&theme=github_dark&border_radius=12&border_color=30363d&hide_border=false&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e&cache_seconds=7200" alt="GitHub Stats" height="175" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ccbentley">
+        <img src="https://streak-stats.demolab.com/?user=ccbentley&hide_border=false&border=30363d&border_radius=12&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&cache_seconds=86400" alt="GitHub Streak" height="175" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div align="center">
+<img src="https://trophy.ryglcloud.net/?username=ccbentley&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&cache_seconds=86400" alt="GitHub Trophies" />
 
-<a href="https://github.com/ccbentley">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ccbentley&cache_seconds=7200&show_icons=true&theme=github_dark&border_radius=12&border_color=30363d&bg_color=0d1117" alt="GitHub Stats" />
-</a>&nbsp;
-<a href="https://github.com/ccbentley">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ccbentley&theme=github-dark-blue&border_radius=12&border=30363d&background=0d1117&cache_seconds=86400" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ccbentley&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&cache_seconds=86400" alt="GitHub Trophies" />
 </div>
 
 <br/>
